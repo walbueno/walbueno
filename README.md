@@ -69,11 +69,3 @@ A listagem visual abaixo garante que as tecnologias-chave sejam imediatamente id
 
 [![Estatísticas do Seu GitHub](https://github-readme-stats.vercel.app/api?username=walbueno&show_icons=true&theme=nord&hide_border=true&include_all_commits=true)](https://github.com/walbueno)
 
----
-
-## 🤝 Conecte-se Comigo
-
-| Plataforma | Link |
-| :--- | :--- |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/walbueno) |
-| **Portfólio/Website** | [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](www.williambueno.com.br)
