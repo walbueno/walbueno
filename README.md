@@ -65,11 +65,9 @@ A listagem visual abaixo garante que as tecnologias-chave sejam imediatamente id
 
 ---
 
-## 📈 Estatísticas do GitHub (Opcional)
+## 📈 Estatísticas do GitHub
 
-Recomendo adicionar uma seção de estatísticas para mostrar sua atividade e as linguagens que você mais usa. **Lembre-se de substituir `[seu-username]` pelo seu nome de usuário.**
-
-[![Estatísticas do Seu GitHub](https://github-readme-stats.vercel.app/api?username=[seu-username]&show_icons=true&theme=nord&hide_border=true&include_all_commits=true)](https://github.com/[seu-username])
+[![Estatísticas do Seu GitHub](https://github-readme-stats.vercel.app/api?username=walbueno&show_icons=true&theme=nord&hide_border=true&include_all_commits=true)](https://github.com/walbueno)
 
 ---
 
@@ -77,6 +75,5 @@ Recomendo adicionar uma seção de estatísticas para mostrar sua atividade e as
 
 | Plataforma | Link |
 | :--- | :--- |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([Seu link do LinkedIn]) |
-| **Portfólio/Website** | [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)]([Seu link do Portfólio]) |
-| **Email** | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[seu_email@example.com]) |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/walbueno]) |
+| **Portfólio/Website** | [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)]([www.williambueno.com.br])
