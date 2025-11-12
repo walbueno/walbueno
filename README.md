@@ -75,5 +75,5 @@ A listagem visual abaixo garante que as tecnologias-chave sejam imediatamente id
 
 | Plataforma | Link |
 | :--- | :--- |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/walbueno]) |
-| **Portfólio/Website** | [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)]([www.williambueno.com.br])
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/walbueno) |
+| **Portfólio/Website** | [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](www.williambueno.com.br)
