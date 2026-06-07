@@ -62,10 +62,3 @@ A listagem visual abaixo garante que as tecnologias-chave sejam imediatamente id
 
 * **Formação:** Sistemas para Internet e Segurança da Informação.
 * Mantenho um *lifelong learning* ativo nas últimas tendências de **Cibersegurança, SEO, Design de Produtos e Gestão de TI**.
-
----
-
-## 📈 Estatísticas do GitHub
-
-[![Estatísticas do Seu GitHub](https://github-readme-stats.vercel.app/api?username=walbueno&show_icons=true&theme=nord&hide_border=true&include_all_commits=true)](https://github.com/walbueno)
-
