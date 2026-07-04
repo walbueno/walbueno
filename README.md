@@ -1,64 +1,60 @@
 <div align="center">
-  <h1>🚀 William Bueno | Full Stack Developer & Founder</h1>
-  <h3>🦄 Unicórnio Técnico com 15+ Anos de Experiência</h3>
+  <h1>William Bueno</h1>
+  <h3>Front-End Engineer & Tech Lead · 15+ anos de experiência</h3>
+  <p>
+    <a href="https://www.williambueno.com.br">Portfólio</a> ·
+    <a href="https://www.linkedin.com/in/walbueno">LinkedIn</a> ·
+    <a href="mailto:oi@williambueno.com.br">E-mail</a>
+  </p>
 </div>
 
 ---
 
-## 👋 Sobre Mim
+## Sobre mim
 
-Com mais de **15 anos de experiência** comprovada na concepção e entrega de soluções digitais de ponta. Minha atuação transita fluentemente do **Design Gráfico (UI/UX)** à **Arquitetura Back-end e Front-end**, com um histórico focado em performance, inovação tecnológica e sucesso de produto.
+15+ anos transitando entre Front-End Engineering, arquitetura full stack e liderança técnica, com histórico em e-commerce, plataformas críticas de governança corporativa e interfaces de alta performance.
 
-Desde 2010, atuo como um *unicórnio técnico*, integrando a visão estratégica de produto com a execução técnica robusta.
+Cofundador da **Beez Creative**, consultoria de tecnologia B2B, onde lidero arquitetura e desenvolvimento para empresas e startups. Através do hub **Syncra Ops**, atuo especificamente em Growth Operations para pequenas e médias empresas.
 
-## ⭐ Destaques da Carreira e Empreendedorismo
+## Projetos em destaque
 
-Fundei minha própria empresa em 2021, transformando desafios complexos de TI e e-commerce em sucesso digital tangível para clientes. Minha atuação é focada em:
+| Projeto | Descrição |
+|---|---|
+| 🌐 [portfolio-website](https://github.com/walbueno/portfolio-website) | Meu site pessoal: SEO técnico, acessibilidade e headers de segurança implementados do zero |
+| 📊 [UPM-Frontend-NEXTJS](https://github.com/walbueno/UPM-Frontend-NEXTJS) | Dashboard de consultoria em Next.js 14 + TypeScript, com arquitetura pronta para integração com API real |
+| 🔒 [security-headers-auditor](https://github.com/walbueno/security-headers-auditor) | CLI que audita headers HTTP de segurança com base no OWASP Secure Headers Project |
+| ⚡ [API-REST-Performance-Demo](https://github.com/walbueno/API-REST-Performance-Demo) | Demonstração didática de otimização com cache in-memory em Node.js/TypeScript |
 
-* **Consultoria Estratégica:** Especialista em **Cloud Computing**, **DevOps** e e-commerce (Certificado/Parceiro Tray, Loja Integrada, Nuvemshop), garantindo infraestrutura robusta e escalável.
-* **Desenvolvimento de Produtos:** Profundo conhecimento em **Design Thinking, UX/UI e Figma**, criando produtos digitais intuitivos e centrados no usuário.
-* **Metodologias Ágeis:** Proficiência prática em ambientes **Scrum, Kanban e XP**, garantindo entregas de alta qualidade em ciclos dinâmicos.
+## Stack
 
----
+**Linguagens & Runtime**
 
-## 💻 Stack Principal (Hard Skills)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-A listagem visual abaixo garante que as tecnologias-chave sejam imediatamente identificadas pelos recrutadores.
+**Front-end**
 
-### Linguagens & Runtime
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+**Dados & Infraestrutura**
 
-### Frameworks & Front-end
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Design & Produto**
 
-### Banco de Dados & Ferramentas
+Figma · UX/UI Design · Design Thinking · CRO · SEO Técnico
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+## Formação
 
-### Cloud & DevOps
-
-![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-000000?style=for-the-badge&logo=cloudways&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-000000?style=for-the-badge&logo=devops&logoColor=white)
-
----
-
-## 📚 Formação e Lifelong Learning
-
-* **Formação:** Sistemas para Internet e Segurança da Informação.
-* Mantenho um *lifelong learning* ativo nas últimas tendências de **Cibersegurança, SEO, Design de Produtos e Gestão de TI**.
+Tecnologia em Segurança da Informação e em Sistema para Internet pela Uninove. Aplico princípios de segurança da informação (headers HTTP, boas práticas OWASP, LGPD) nos meus próprios projetos como forma contínua de colocar a formação em prática.
