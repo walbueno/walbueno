@@ -20,7 +20,6 @@ Cofundador da **Beez Creative**, consultoria de tecnologia B2B, onde lidero arqu
 
 | Projeto | Descrição |
 |---|---|
-| 🌐 [portfolio-website](https://github.com/walbueno/portfolio-website) | Meu site pessoal: SEO técnico, acessibilidade e headers de segurança implementados do zero |
 | 📊 [UPM-Frontend-NEXTJS](https://github.com/walbueno/UPM-Frontend-NEXTJS) | Dashboard de consultoria em Next.js 14 + TypeScript, com arquitetura pronta para integração com API real |
 | 🔒 [security-headers-auditor](https://github.com/walbueno/security-headers-auditor) | CLI que audita headers HTTP de segurança com base no OWASP Secure Headers Project |
 | ⚡ [API-REST-Performance-Demo](https://github.com/walbueno/API-REST-Performance-Demo) | Demonstração didática de otimização com cache in-memory em Node.js/TypeScript |
