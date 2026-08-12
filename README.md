@@ -22,6 +22,7 @@ Cofundador da **Beez Creative**, consultoria de tecnologia B2B, onde lidero arqu
 |---|---|
 | 📊 [UPM-Frontend-NEXTJS](https://github.com/walbueno/UPM-Frontend-NEXTJS) | Dashboard de consultoria em Next.js 14 + TypeScript, com arquitetura pronta para integração com API real |
 | 🔒 [security-headers-auditor](https://github.com/walbueno/security-headers-auditor) | CLI que audita headers HTTP de segurança com base no OWASP Secure Headers Project |
+| 🔒 [secure-checkout-flow](https://github.com/walbueno/secure-checkout-flow) | Um fluxo de checkout de e-commerce (carrinho → dados do cliente → pagamento → confirmação) construído para demonstrar, na prática, princípios de segurança aplicados ao front-end. |
 | ⚡ [API-REST-Performance-Demo](https://github.com/walbueno/API-REST-Performance-Demo) | Demonstração didática de otimização com cache in-memory em Node.js/TypeScript |
 
 ## Stack
