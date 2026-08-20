@@ -1,60 +1,42 @@
 <div align="center">
-  <h1>William Bueno</h1>
-  <h3>Front-End Engineer & Tech Lead · 15+ anos de experiência</h3>
-  <p>
-    <a href="https://www.williambueno.com.br">Portfólio</a> ·
-    <a href="https://www.linkedin.com/in/walbueno">LinkedIn</a> ·
-    <a href="mailto:oi@williambueno.com.br">E-mail</a>
-  </p>
+
+# William Bueno
+
+**Arquiteto Front-End (IC) · Segurança Aplicada a Front-End · 20+ anos de experiência**
+
+[Portfólio](https://www.williambueno.com.br) · [LinkedIn](https://linkedin.com/in/walbueno) · [E-mail](mailto:william.bueno@beezcreative.com.br)
+
 </div>
 
 ---
 
 ## Sobre mim
 
-15+ anos transitando entre Front-End Engineering, arquitetura full stack e liderança técnica, com histórico em e-commerce, plataformas críticas de governança corporativa e interfaces de alta performance.
+20+ anos transitando entre front-end engineering e arquitetura de interfaces, com histórico em e-commerce (Tray, Bagy, Nuvemshop) e em produtos de tecnologia de maior escala.
 
-Cofundador da **Beez Creative**, consultoria de tecnologia B2B, onde lidero arquitetura e desenvolvimento para empresas e startups. Através do hub **Syncra Ops**, atuo especificamente em Growth Operations para pequenas e médias empresas.
+Atuo como consultor PJ através da **Beez Creative**, elevando performance, acessibilidade e arquitetura de tema em e-commerces construídos sobre plataformas nacionais. Também aplico uma camada de segurança no front-end (proteção contra XSS/CSRF, dependências seguras, consumo seguro de API) pouco comum entre front-enders sênior.
 
 ## Projetos em destaque
 
 | Projeto | Descrição |
 |---|---|
-| 📊 [UPM-Frontend-NEXTJS](https://github.com/walbueno/UPM-Frontend-NEXTJS) | Dashboard de consultoria em Next.js 14 + TypeScript, com arquitetura pronta para integração com API real |
-| 🔒 [security-headers-auditor](https://github.com/walbueno/security-headers-auditor) | CLI que audita headers HTTP de segurança com base no OWASP Secure Headers Project |
-| 🔒 [secure-checkout-flow](https://github.com/walbueno/secure-checkout-flow) | Um fluxo de checkout de e-commerce (carrinho → dados do cliente → pagamento → confirmação) construído para demonstrar, na prática, princípios de segurança aplicados ao front-end. |
-| ⚡ [API-REST-Performance-Demo](https://github.com/walbueno/API-REST-Performance-Demo) | Demonstração didática de otimização com cache in-memory em Node.js/TypeScript |
+| [UPM-Frontend-NEXTJS](https://github.com/walbueno/UPM-Frontend-NEXTJS) | Dashboard de consultoria em Next.js 14 + TypeScript, com arquitetura pronta para integração com API real |
+| [API-REST-Performance-Demo](https://github.com/walbueno/API-REST-Performance-Demo) | Demonstração didática de otimização com cache in-memory em Node.js/TypeScript |
+| [security-headers-auditor](https://github.com/walbueno/security-headers-auditor) | CLI que audita headers HTTP de segurança com base no OWASP Secure Headers Project |
+| [secure-catalog-ui](https://github.com/walbueno/secure-catalog-ui) | Desenvolvi este catálogo de produtos em Angular para ir além de um CRUD básico e demonstrar boas práticas de mercado |
+| [wp-headless-nextjs](https://github.com/walbueno/wp-headless-nextjs) | Front-end desacoplado (headless), consumindo a REST API nativa do WordPress, construído com Next.js e TypeScript. |
+| [storefront-demo](https://github.com/walbueno/storefront-demo) | Mini e-commerce compacto, demonstrando a jornada completa de compra (Home, Categoria, Produto e Checkout), construído do zero, sem vínculo com nenhuma plataforma específica. |
 
 ## Stack
 
-**Linguagens & Runtime**
+**Front-End:** React.js · Next.js · Angular · TypeScript · JavaScript (ES6+) · HTML5 · CSS3
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+**Segurança:** Proteção XSS/CSRF · Codificação segura · Boas práticas OWASP · Consumo seguro de API
 
-**Front-end**
+**E-commerce:** Tray (Parceiro Certificado) · Bagy (Parceiro Certificado) · Nuvemshop (Parceiro Certificado)
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Dados & Infraestrutura**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
-**Design & Produto**
-
-Figma · UX/UI Design · Design Thinking · CRO · SEO Técnico
+**Outros:** Node.js · PHP · C#/.NET MVC · Git · Docker (projetos pessoais/locais)
 
 ## Formação
 
-Tecnologia em Segurança da Informação e em Sistema para Internet pela Uninove. Aplico princípios de segurança da informação (headers HTTP, boas práticas OWASP, LGPD) nos meus próprios projetos como forma contínua de colocar a formação em prática.
+Tecnólogo em Sistemas para Internet e em Segurança da Informação pela Uninove. Aplico princípios de segurança da informação (headers HTTP, boas práticas OWASP, LGPD) nos meus próprios projetos como forma contínua de colocar a formação em prática.
