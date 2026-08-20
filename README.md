@@ -26,6 +26,7 @@ Atuo como consultor PJ através da **Beez Creative**, elevando performance, aces
 | [secure-catalog-ui](https://github.com/walbueno/secure-catalog-ui) | Desenvolvi este catálogo de produtos em Angular para ir além de um CRUD básico e demonstrar boas práticas de mercado |
 | [wp-headless-nextjs](https://github.com/walbueno/wp-headless-nextjs) | Front-end desacoplado (headless), consumindo a REST API nativa do WordPress, construído com Next.js e TypeScript. |
 | [storefront-demo](https://github.com/walbueno/storefront-demo) | Mini e-commerce compacto, demonstrando a jornada completa de compra (Home, Categoria, Produto e Checkout), construído do zero, sem vínculo com nenhuma plataforma específica. |
+| [secure-checkout-flow](https://github.com/walbueno/secure-checkout-flow) | Um fluxo de checkout de e-commerce (carrinho → dados do cliente → pagamento → confirmação) construído para demonstrar, na prática, princípios de segurança aplicados ao front-end: validação em profundidade, sanitização de dados, tokenização client-side e proteção contra CSRF. |
 
 ## Stack
 
