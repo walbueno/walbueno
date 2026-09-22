@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/SEU-USUARIO" target="_blank">
+  <a href="https://www.linkedin.com/in/walbueno" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://SEU-SITE.com" target="_blank">
+  <a href="https://williambueno.com.br" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://beezcreative.com" target="_blank">
+  <a href="https://beezcreative.com.br" target="_blank">
     <img src="https://img.shields.io/badge/Beez_Creative-6C63FF?style=flat&logo=rocket&logoColor=white" alt="Beez Creative">
   </a>
 </p>
@@ -24,87 +24,189 @@
 
 ## 🚀 Sobre Mim
 
-Atuo em tecnologia desde **2003**, com uma trajetória que evoluiu do design e desenvolvimento web para a **Engenharia de Software**, aplicações web, produtos digitais, e-commerce e desenvolvimento Full Stack. 
+Atuo em tecnologia desde **2003**, com uma trajetória que evoluiu do design e desenvolvimento web para a **Engenharia de Software**, aplicações web, produtos digitais, e-commerce e desenvolvimento Full Stack.
 
-Sou formado em **Sistemas para Internet** e **Segurança da Informação** — formação que ampliou minha forma de pensar software, considerando não apenas a implementação, mas também arquitetura, experiência, performance, qualidade e segurança.
+Sou formado em **Sistemas para Internet** e **Segurança da Informação** — uma combinação que ampliou minha forma de pensar software, considerando não apenas a implementação, mas também arquitetura, experiência, performance, qualidade e segurança.
 
 Atualmente, atuo como **Software Engineer e cofundador da Beez Creative**, desenvolvendo soluções digitais, aplicações web, sistemas sob medida e projetos de e-commerce.
+
+Através da Beez, também atuo no ecossistema de comércio eletrônico por meio de **parcerias oficiais com Tray e Bagy**.
 
 ---
 
 ## 🧠 Como Penso Software
 
-Não vejo desenvolvimento como uma etapa isolada de programação. Uma aplicação precisa considerar diferentes dimensões integradas:
+Não vejo desenvolvimento como uma etapa isolada de programação.
 
-*   🎯 **Produto** — Qual problema estamos resolvendo?
-*   👥 **Experiência** — Como as pessoas irão utilizar a solução?
-*   ⚙️ **Engenharia** — Como o software será estruturado e evoluído?
-*   ⚡ **Performance** — Como garantir eficiência e boa experiência?
-*   🛡️ **Segurança** — Quais riscos precisam ser considerados desde o desenvolvimento?
-*   📈 **Negócio** — Como a tecnologia contribui para o resultado?
+Uma aplicação precisa considerar diferentes dimensões integradas:
+
+* 🎯 **Produto** — Qual problema estamos resolvendo?
+* 👥 **Experiência** — Como as pessoas irão utilizar a solução?
+* ⚙️ **Engenharia** — Como o software será estruturado e evoluído?
+* ⚡ **Performance** — Como garantir eficiência e boa experiência?
+* 🛡️ **Segurança** — Quais riscos precisam ser considerados desde o desenvolvimento?
+* 📈 **Negócio** — Como a tecnologia contribui para o resultado?
+
+Para mim, software bem construído precisa ser mais do que funcional. Precisa ser **compreensível, evolutivo, utilizável e confiável**.
 
 ---
 
 ## 🛠️ O que Faço
 
-*   **Software Engineering** & **Web Applications**
-*   **Front-End & Full Stack Development**
-*   Digital Products & **E-commerce**
-*   APIs & System Integration
-*   Performance & Accessibility (WCAG)
-*   UX/UI
-*   **Secure Software Development**
+* **Software Engineering** & **Web Applications**
+* **Front-End & Full Stack Development**
+* Digital Products & **E-commerce**
+* APIs & System Integration
+* Performance & Accessibility (WCAG)
+* UX/UI
+* **Secure Software Development**
+* Refactoring, Code Quality & Technical Evolution
 
 ---
 
 ## 🧰 Tecnologias & Ferramentas
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Front-End** | `JavaScript` · `TypeScript` · `React` · `Next.js` · `Angular` · `HTML5` · `CSS3` |
-| **Back-End** | `Node.js` · `PHP` · `C#` · `.NET` · `REST APIs` |
-| **Web & Product** | `UX/UI` · `Figma` · `Accessibility` · `WCAG` · `Web Performance` · `SEO` · `E-commerce` |
-| **Engineering** | `Clean Code` · `Code Review` · `Refactoring` · `Git` · `GitHub` · `GitLab` · `Docker` · `CI/CD` |
-| **Security** | `Information Security` · `Web Application Security` · `Secure Development` · `OWASP` · `Security Headers` |
+| Categoria         | Tecnologias                                                                                               |
+| :---------------- | :-------------------------------------------------------------------------------------------------------- |
+| **Front-End**     | `JavaScript` · `TypeScript` · `React` · `Next.js` · `Angular` · `HTML5` · `CSS3`                          |
+| **Back-End**      | `Node.js` · `PHP` · `C#` · `.NET` · `REST APIs`                                                           |
+| **Web & Product** | `UX/UI` · `Figma` · `Accessibility` · `WCAG` · `Web Performance` · `SEO` · `E-commerce`                   |
+| **Engineering**   | `Clean Code` · `Code Review` · `Refactoring` · `Git` · `GitHub` · `GitLab` · `Docker` · `CI/CD`           |
+| **Security**      | `Information Security` · `Web Application Security` · `Secure Development` · `OWASP` · `Security Headers` |
 
 ---
 
 ## 📂 Projetos em Destaque
 
-*   **[UPM Frontend — Next.js](https://github.com/walbueno/UPM-Frontend-NEXTJS)**
-    *   Aplicação web desenvolvida com Next.js e TypeScript, explorando arquitetura de aplicação, componentização, integração com APIs, organização de código e automação de qualidade.
-*   **[Security Headers Auditor](https://github.com/walbueno/security-headers-auditor)**
-    *   CLI para análise de HTTP Security Headers, desenvolvida como uma aplicação prática de segurança aplicada ao desenvolvimento web (hardening e boas práticas).
-*   **[Storefront Demo](https://github.com/walbueno/storefront-demo)**
-    *   Mini e-commerce desenvolvido do zero para explorar arquitetura de interface, experiência de compra, catálogo, produto e checkout.
-*   **[Secure Checkout Flow](https://github.com/walbueno/secure-checkout-flow)**
-    *   Demonstração de um fluxo de checkout com foco em validação, proteção e boas práticas de segurança aplicadas à experiência de compra.
-*   **[API REST Performance Demo](https://github.com/walbueno/API-REST-Performance-Demo)**
-    *   Projeto experimental para analisar diferentes estratégias de implementação e performance em APIs REST utilizando Node.js, TypeScript e Express.
-*   **[WordPress Headless + Next.js](https://github.com/walbueno/wp-headless-nextjs)**
-    *   Projeto explorando uma arquitetura headless utilizando WordPress como backend de conteúdo e Next.js como camada de apresentação.
+### [UPM Frontend — Next.js](https://github.com/walbueno/UPM-Frontend-NEXTJS)
+
+Aplicação web desenvolvida com **Next.js, TypeScript e Tailwind CSS**, explorando arquitetura de aplicação, componentização, organização de código, camada de serviços, métricas e automação de qualidade.
+
+O projeto demonstra decisões relacionadas à construção e evolução de aplicações web modernas, incluindo **App Router, componentes reutilizáveis, separação de responsabilidades e CI**.
+
+---
+
+### [Security Headers Auditor](https://github.com/walbueno/security-headers-auditor)
+
+CLI desenvolvida com **Node.js e TypeScript** para análise de HTTP Security Headers.
+
+O projeto verifica headers como **Strict-Transport-Security, Content-Security-Policy, X-Content-Type-Options, X-Frame-Options, Referrer-Policy e Permissions-Policy**, apresentando recomendações e permitindo exportação dos resultados.
+
+É um projeto prático de **segurança aplicada ao desenvolvimento web**, com testes automatizados e referência ao OWASP Secure Headers Project.
+
+---
+
+### [Storefront Demo](https://github.com/walbueno/storefront-demo)
+
+Storefront desenvolvido com **Next.js, React e TypeScript**, explorando uma jornada de compra completa:
+
+**Home → Categoria → Produto → Carrinho → Checkout**
+
+O projeto trabalha conceitos de catálogo, estado do carrinho, persistência no navegador, experiência de compra e testes automatizados.
+
+O objetivo é demonstrar fundamentos de **produto digital e e-commerce** no desenvolvimento de aplicações web.
+
+---
+
+### [Secure Checkout Flow](https://github.com/walbueno/secure-checkout-flow)
+
+Fluxo de checkout demonstrativo desenvolvido com **Next.js, React, TypeScript e Zod**.
+
+O projeto explora validação de dados, tratamento de informações sensíveis, proteção contra cenários de CSRF e **tokenização simulada** dentro de um fluxo de compra.
+
+O objetivo é estudar como aspectos de **segurança podem ser considerados durante o desenvolvimento da experiência de checkout**.
+
+> Este projeto é demonstrativo e não representa uma implementação de processamento de pagamentos em produção ou uma certificação PCI-DSS.
+
+---
+
+### [API REST Performance Demo](https://github.com/walbueno/API-REST-Performance-Demo)
+
+API REST desenvolvida com **Node.js, TypeScript e Express**, explorando versionamento de API, acesso a dados e medição de tempo de execução.
+
+O projeto utiliza cenários controlados para demonstrar conceitos de **performance e observabilidade durante a execução de APIs**.
+
+O objetivo não é apresentar um benchmark de produção, mas demonstrar como diferentes estratégias podem ser analisadas tecnicamente.
+
+---
+
+### [WordPress Headless + Next.js](https://github.com/walbueno/wp-headless-nextjs)
+
+Aplicação desenvolvida com **Next.js e TypeScript** utilizando o WordPress como CMS desacoplado através da REST API.
+
+A arquitetura separa o gerenciamento de conteúdo da camada de apresentação:
+
+**WordPress → REST API → Next.js → Interface**
+
+O projeto também explora transformação e normalização dos dados, revalidação de conteúdo e testes sobre a camada de transformação.
 
 ---
 
 ## 💼 Experiência Profissional
 
-*   **Beez Creative** | Cofundador · Software Engineer *(Atual)*
-    *   Desenvolvimento de aplicações web, produtos digitais, sistemas sob medida e soluções de e-commerce. Atuação no ecossistema de comércio eletrônico por meio de parcerias oficiais com Tray e Bagy.
-*   **IComm Agência Digital** | Front-End Developer
-    *   Mais de uma década de atuação em desenvolvimento web, WordPress, Front-End e e-commerce, evoluindo de temas/plugins para aplicações e interfaces complexas, performance, manutenção e integração com plataformas de e-commerce.
-*   **Dream Of Labs** | Web Developer
-    *   Atuação em projetos web e WordPress para diferentes empresas e segmentos.
+### **Beez Creative**
+
+**Cofundador · Software Engineer | 2021–Atual**
+
+Atuação no desenvolvimento de aplicações web, produtos digitais, sistemas sob medida e soluções de e-commerce.
+
+Experiência envolvendo desenvolvimento Front-End e Full Stack, integração de APIs, arquitetura de aplicações, UX/UI, performance, acessibilidade, refatoração e evolução de sistemas.
+
+Através da Beez, também atuo no ecossistema de comércio eletrônico por meio de **parcerias oficiais com Tray e Bagy**.
+
+Entre os projetos desenvolvidos através da Beez estão trabalhos realizados para empresas como **MTCorp Soluções Tecnológicas** e **HTS Global Tech**, envolvendo aplicações corporativas, React, Angular, APIs REST e C#/.NET.
+
+---
+
+### **IComm Agência Digital**
+
+**Front-End Developer | 2009–2020**
+
+Mais de uma década de atuação em desenvolvimento web, WordPress, Front-End e e-commerce.
+
+A trajetória evoluiu de desenvolvimento de temas e plugins para projetos envolvendo interfaces complexas, componentes personalizados, performance, SEO, responsividade, manutenção, segurança e integração com plataformas de comércio eletrônico.
+
+Experiência histórica com ecossistemas como **Tray e VTEX**, incluindo desenvolvimento e customização de interfaces e componentes para e-commerce.
+
+---
+
+### **Dream Of Labs**
+
+**Web Developer | 2006–2009**
+
+Atuação em projetos web e WordPress para diferentes empresas e segmentos, incluindo desenvolvimento de sites, personalização de temas e componentes e evolução de projetos digitais.
 
 ---
 
 ## 🎓 Formação Acadêmica
 
-*   **Tecnologia em Segurança da Informação** | UNINOVE *(2020–2023)*
-*   **Tecnologia em Sistemas para Internet** | UNINOVE *(2018–2020)*
+* **Tecnologia em Segurança da Informação** | UNINOVE · 2020–2023
+* **Tecnologia em Sistemas para Internet** | UNINOVE · 2018–2020
+
+---
+
+## 🎯 Foco Atual
+
+Meu foco profissional está na **Engenharia de Software aplicada a aplicações web e produtos digitais**, integrando:
+
+* Engenharia de Software
+* Aplicações Web
+* Front-End & Full Stack
+* Produtos Digitais
+* E-commerce
+* Performance
+* UX/UI
+* Acessibilidade
+* Segurança integrada ao desenvolvimento
+
+A tecnologia é o meio.
+
+O objetivo é construir software que possa ser **entendido, evoluído, utilizado e sustentado**.
 
 ---
 
 <p align="center">
-  <em>Tecnologia + Produto + Experiência + Performance + Segurança</em><br/>
-  <strong>Construir software que possa ser entendido, evoluído, utilizado e sustentado.</strong>
+  <em>Tecnologia + Produto + Experiência + Performance + Segurança</em>
+  <br/>
+  <strong>Construir software que faça sentido para o negócio, seja bom para quem utiliza e seja confiável para quem depende dele.</strong>
 </p>
